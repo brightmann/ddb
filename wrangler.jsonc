@@ -1,0 +1,1 @@
+{"$schema":"node_modules/wrangler/config-schema.json","assets":{"directory":"./public"},"compatibility_date":"2026-10-01","name":"ddb"}
